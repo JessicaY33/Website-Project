@@ -53,3 +53,8 @@ header
 {
   background:#ea6c6c;
 }
+
+#selfie
+{
+  image-orientation: center;
+}
