@@ -41,7 +41,7 @@ header
 
 #hobby
 {
-  background:#ab5cc1;
+  background-color: #ab5cc1;
 }
 
 #skill
@@ -56,5 +56,5 @@ header
 
 #selfie
 {
-  image-orientation: center;
+  object-position: center;
 }
