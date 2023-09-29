@@ -33,3 +33,14 @@ header
 {
     color:red;
 }
+
+#website
+{
+  width: 200px;
+  height: 50px;
+  letter-spacing: 1px;
+  text-align: center;
+  color:#3e2374;
+  border: 4px solid #4b51bd;
+  background-color: #6dd2f3;
+}
