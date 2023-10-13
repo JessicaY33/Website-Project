@@ -28,3 +28,24 @@ header
 {
   background:#76db76;
 }
+
+#middle
+{
+  text-align: center;
+}
+
+#frog
+{
+  margin-top: 40px;
+}
+
+#drago
+{
+  margin-bottom: 50px;
+}
+
+#blocky
+{
+  margin-left: 80px;
+  margin-bottom: 70px;
+}
