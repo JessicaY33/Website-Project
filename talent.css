@@ -1,0 +1,51 @@
+html 
+{
+  font-family: sans-serif;
+  height: 100%;
+  width: 100%;
+}
+
+body
+{
+  margin: 0px;
+}
+
+header
+{
+  margin: 0px;
+  background: #6dd2f3;
+  height: 100px;
+}
+
+#heading
+{
+  line-height: 100px;
+  margin: 0px;
+  background: orange;
+}
+
+#link
+{
+  background:#76db76;
+}
+
+#middle
+{
+  text-align: center;
+}
+
+#frog
+{
+  margin-top: 40px;
+}
+
+#drago
+{
+  margin-bottom: 50px;
+}
+
+#blocky
+{
+  margin-left: 80px;
+  margin-bottom: 70px;
+}

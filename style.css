@@ -1,0 +1,60 @@
+html 
+{
+  font-family: sans-serif;
+  height: 100%;
+  width: 100%;
+}
+
+body
+{
+  margin: 0px;
+}
+
+header
+{
+  margin: 0px;
+  background: #378fe1 ;
+  height: 100px;
+}
+
+#heading
+{
+  line-height: 100px;
+  margin: 0px;
+  background: orange;
+}
+
+#intro
+{
+  background: #6dd2f3;
+}
+
+#column
+{
+  display: flex;
+}
+
+#link
+{
+  background:#76db76;
+}
+
+#hobby
+{
+  background-color: #ab5cc1;
+}
+
+#skill
+{
+  background: #6dd2f3;
+}
+
+#spot
+{
+  background:#ea6c6c;
+}
+
+#selfie
+{
+  text-align: center;
+}
